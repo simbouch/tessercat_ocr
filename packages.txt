@@ -1,0 +1,6 @@
+tesseract-ocr
+libtesseract-dev
+tesseract-ocr
+libtesseract-dev
+tesseract-ocr-eng
+tesseract-ocr-fra
